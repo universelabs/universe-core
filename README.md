@@ -8,7 +8,7 @@
     </a>
   </p>
   <p>
-    <a href="/issues/new?labels=&template=feature_request.md" alt="Request feature">
+    <a href="https://github.com/universelabs/universe-core/issues/new?template=feature_request.md" alt="Request feature">
       Request feature
     </a>
     &nbsp;&middot;&nbsp;
@@ -16,7 +16,7 @@
       Explore
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="/issues/new?labels=&template=bug_report.md" alt="Report a Bug">
+    <a href="https://github.com/universelabs/universe-core/issues/new?template=bug_report.md" alt="Report a Bug">
       Report bug
     </a>
     &nbsp;&middot;&nbsp;
