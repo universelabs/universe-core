@@ -90,6 +90,11 @@ Get updates on Universe's development and chat with the project maintainers and 
 - <https://twitter.com/gadikian>
 - <https://github.com/faddat>
 
+**Guy Lepage**
+
+- <https://twitter.com/guylepage3>
+- <https://github.com/guylepage3>
+
 
 ## License
 
